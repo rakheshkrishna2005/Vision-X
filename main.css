@@ -1,0 +1,49 @@
+/* KPI Metrics Styling */
+[data-testid="stHorizontalBlock"] {
+    gap: 10px;
+}
+
+[data-testid="stHorizontalBlock"] [data-testid="column"] {
+    background-color: rgba(28, 131, 225, 0.1);
+    border: 1px solid rgba(28, 131, 225, 0.2);
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+[data-testid="stHorizontalBlock"] [data-testid="column"] [data-testid="stMetricLabel"] {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+[data-testid="stHorizontalBlock"] [data-testid="column"] [data-testid="stMetricValue"] {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+[data-testid="stHorizontalBlock"] [data-testid="column"] [data-testid="stMetricDelta"] {
+    font-size: 14px;
+}
+
+/* Detected Object Table Styling */
+.detected-object-table {
+    background-color: rgba(28, 131, 225, 0.1);
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    margin-top: 20px;
+}
+
+.detected-object-table th,
+.detected-object-table td {
+    background-color: var(--background color);
+    border: 1px solid var(--background color);
+    padding: 12px;
+    text-align: center;
+    font-size: 14px;
+}
