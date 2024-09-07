@@ -18,7 +18,6 @@
 - Multi-class object selection
 - GPU acceleration support (if available)
 - Real-time performance metrics display (FPS, tracked objects, detected classes)
-- Responsive design for various screen sizes
 
 ## Tech Stack
 - **Programming Language:** Python
@@ -31,7 +30,7 @@
 
 ## Installation and Usage
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/rakheshkrishna2005/Vision-X.git
    ```
@@ -41,12 +40,12 @@
    cd Vision-X
    ```
    
-3. Create a virtual environment (optional but recommended):
+3. **Create a virtual environment (optional but recommended):**
    ```bash
    python -m venv venv
    ```
 
-4. Activate the Virtual Environment:
+4. **Activate the Virtual Environment:**
    - On Windows:
    ```bash
    venv\Scripts\activate
@@ -56,17 +55,18 @@
    source venv/bin/activate
    ```
 
-5. Install the required dependencies:
+5. **Install the required dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-6. Run the Streamlit app:
+6. **Run the Streamlit app:**
    ```bash
    streamlit run app.py
    ```
+7. **Alternatively, you can run the app by clicking `Vision X.bat`**
 
-7. Open your web browser and navigate to the URL `http://localhost:8501`
+8. **Open your web browser and navigate to the URL `http://localhost:8501`**
 
 ## Web Page
 
