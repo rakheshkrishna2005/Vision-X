@@ -70,6 +70,7 @@
 
 ## Web Page
 
+<img src="https://github.com/rakheshkrishna2005/Vision-X/blob/main/project%20screenshots/Vision%20X.png" alt="Web Page">
 
 ## Additional Information
 - **Streamlit Documentation:** [Streamlit Documentation](https://docs.streamlit.io/)
