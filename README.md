@@ -1,34 +1,36 @@
-# Vision X - Real Time Object Tracker
+# 🎯 Vision X - Real-Time Object Tracker
 
-## Description
+## 📝 Description
 
-- Real-time object detection and tracking application. Uses YOLOv8 for efficient and accurate object detection.
-- Built with Streamlit for an interactive web interface.
-- Supports webcam input and video file upload.
+- Vision X is a **real-time object detection and tracking application** using **YOLOv8** for efficient and accurate object detection. 
+- Built with **Streamlit** for an interactive web interface.
+- Supports both **webcam input** and **video file uploads** for object tracking.
 
-## Demo
+## 🎥 Demo Video 
+[Click here to watch the demo](https://github.com/user-attachments/assets/8865d14e-9587-4068-a323-df04d73f26c5)
 
-**Watch the demo video of the project:** [Demo Video](https://drive.google.com/file/d/1HYMSpNCDvfNKre6_LChZdRX6dNvlyOFL/view?usp=sharing)
+## 🚀 Features
 
-## Features
+- 🖥️ **Live object detection** from webcam feed
+- 🎞️ Object detection on **uploaded video files**
+- 🎯 **Customizable confidence threshold** for precision
+- 🧑‍🤝‍🧑 **Multi-class object selection**
+- ⚡ **GPU acceleration** support (if available)
+- 📊 Real-time performance metrics (FPS, tracked objects, detected classes)
 
-- Live object detection from webcam feed
-- Object detection on uploaded video files
-- Customizable confidence threshold
-- Multi-class object selection
-- GPU acceleration support (if available)
-- Real-time performance metrics display (FPS, tracked objects, detected classes)
+## 💻 Tech Stack
 
-## Tech Stack
-- **Programming Language:** Python
-- **Web Framework:** Streamlit
-- **Computer Vision Library:** OpenCV
-- **Deep Learning Framework:** PyTorch
-- **Object Detection Model:** Ultralytics YOLOv8
-- **GPU Acceleration:** CUDA (if available)
-- **Data Processing:** NumPy
+- **Programming Language:** Python 🐍
+- **Web Framework:** Streamlit 🌐
+- **Computer Vision Library:** OpenCV 👁️‍🗨️
+- **Deep Learning Framework:** PyTorch 🔥
+- **Object Detection Model:** Ultralytics YOLOv8 🦾
+- **GPU Acceleration:** CUDA (if available) 🚀
+- **Data Processing:** NumPy 🔢
 
-## Installation and Usage
+## ⚙️ Installation and Usage
+
+Follow these steps to get Vision X running on your machine:
 
 1. **Clone the repository:**
    ```bash
@@ -39,21 +41,22 @@
    ```bash
    cd Vision-X
    ```
-   
-3. **Create a virtual environment (optional but recommended):**
+
+3. **Create a virtual environment** (optional but recommended):
    ```bash
    python -m venv venv
    ```
 
 4. **Activate the Virtual Environment:**
-   - On Windows:
-   ```bash
-   venv\Scripts\activate
-   ```
-   - On macOS/Linux:
-   ```bash
-   source venv/bin/activate
-   ```
+
+   - On **Windows**:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - On **macOS/Linux**:
+     ```bash
+     source venv/bin/activate
+     ```
 
 5. **Install the required dependencies:**
    ```bash
@@ -64,17 +67,19 @@
    ```bash
    streamlit run app.py
    ```
-7. **Alternatively, you can run the app by clicking `Vision X.bat`**
 
-8. **Open your web browser and navigate to the URL `http://localhost:8501`**
+7. Alternatively, run the app by clicking the `Vision X.bat` file.
 
-## Web Page
+8. **Access the app** by opening your web browser and navigating to `http://localhost:8501`.
 
-<img src="https://github.com/rakheshkrishna2005/Vision-X/blob/main/project%20screenshots/Vision%20X.png" alt="Web Page">
+## 🌐 Web Interface
 
-## Additional Information
-- **Streamlit Documentation:** [Streamlit Documentation](https://docs.streamlit.io/)
-- **YOLOv8 Documentation:** [Ultralytics YOLOv8 Documentation](https://docs.ultralytics.com/)
-- **OpenCV Documentation:** [OpenCV Documentation](https://docs.opencv.org/)
-- **PyTorch Documentation:** [PyTorch Documentation](https://pytorch.org/docs/)
-- **NumPy Documentation:** [NumPy Documentation](https://numpy.org/doc/stable/)
+![app](https://github.com/user-attachments/assets/114ac788-83fc-4f3b-a63d-ff37590c973f)
+
+## 📚 Additional Resources
+
+- 📘 **[NumPy Documentation](https://numpy.org/doc/stable/)**
+- 📘 **[PyTorch Documentation](https://pytorch.org/docs/)**
+- 📘 **[YOLOv8 Documentation](https://docs.ultralytics.com/)**
+- 📘 **[OpenCV Documentation](https://docs.opencv.org/)**
+- 📘 **[Streamlit Documentation](https://docs.streamlit.io/)**
