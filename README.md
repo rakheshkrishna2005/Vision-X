@@ -7,7 +7,7 @@
 - Supports both **webcam input** and **video file uploads** for object tracking.
 
 ## 🎥 Demo Video 
-[Click here to watch the demo](https://github.com/user-attachments/assets/8865d14e-9587-4068-a323-df04d73f26c5)
+https://github.com/user-attachments/assets/8a122056-924a-4b6f-964f-bc15b3037ac7
 
 ## 🚀 Features
 
