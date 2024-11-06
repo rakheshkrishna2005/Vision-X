@@ -1,4 +1,4 @@
-# 🎯 Vision X - Real-Time Object Tracker
+# 🎯 Vision X - Real-Time Object Counter
 
 > &copy; Rakhesh Krishna P. All rights reserved.  
 > This project should not be reproduced, distributed, or modified without the prior permission.
@@ -33,7 +33,7 @@
 
 ## 🌐 Web Interface
 
-![app](https://github.com/user-attachments/assets/114ac788-83fc-4f3b-a63d-ff37590c973f)
+![app](https://github.com/rakheshkrishna2005/Vision-X/blob/main/Vision%20X.png)
 
 ## 📚 Additional Resources
 
